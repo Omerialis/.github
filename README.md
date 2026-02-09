@@ -29,7 +29,7 @@ Agence web fondée en 2026, basée près de Saint-Omer. Sites sur mesure et syst
 
 ### 💡 Valeurs
 
-🌍 **Ancrage local** — Né à Saint-Omer, on connaît le territoire
-🔓 **Transparence** — Code sur GitHub, rapports mensuels
-⚙️ **Excellence technique** — 10 ans d'XP, Expert Opquast, Lighthouse 90+
+🌍 **Ancrage local** — Né à Saint-Omer, on connaît le territoire  
+🔓 **Transparence** — Code sur GitHub, rapports mensuels  
+⚙️ **Excellence technique** — 10 ans d'XP, Expert Opquast, Lighthouse 90+  
 📊 **Résultats** — ROI mesurable, conversions trackées
